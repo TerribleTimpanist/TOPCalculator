@@ -1,0 +1,23 @@
+
+div {
+    margin: .3rem auto;
+}
+
+button {
+    height: 2rem;
+    min-width: 1.5rem;
+}
+
+#ans-div {
+    width: 10.3rem;
+    margin: 0;
+    padding: 0;
+    min-height: 1.6rem;
+    border-style:solid;
+    border-color:gray;
+    border-width: 1px;
+}
+
+#ans-div p {
+    margin: .2rem 0;
+}
