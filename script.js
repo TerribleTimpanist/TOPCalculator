@@ -43,7 +43,7 @@ function numClick(event) {
 }
 
 function opClick(event) {
-     dbgop();
+     //dbgop();
     if(!rhs) {
         if(ans) { //use output from "="
             rhs = ans;
